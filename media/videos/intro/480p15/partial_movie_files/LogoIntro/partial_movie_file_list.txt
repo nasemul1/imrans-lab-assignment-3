@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/1185818338_2732186766_2358810818.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_3470361635_3747665273.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_319376786_1398872437.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_3933056962_1658582291.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_3394500337_1897923903.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_1225848426_2974601285.mp4'
+file 'file:/home/nasemul1/Documents/Python/Day 3 assignment/media/videos/intro/480p15/partial_movie_files/LogoIntro/624642324_4217992463_1913167318.mp4'
